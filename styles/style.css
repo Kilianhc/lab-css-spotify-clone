@@ -95,6 +95,7 @@ White: #FFF
     font-size: 40px;
     margin: 10px;
     padding-bottom: 10px;
+    text-decoration:underline #00B172;
   }
 
   #spotify-features h3 {
@@ -167,7 +168,7 @@ White: #FFF
     width: 150px;
     display: flex;
     position: absolute;
-    top: 225%;
+    top: 190%;
     left: 45%;
 
   }
